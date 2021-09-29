@@ -1,0 +1,71 @@
+
+$headerHeight: 53px;
+$colorSize: #85736B;
+
+// color font
+
+$color-standart: #42261D;
+$color-caramiziu: #B22D00;
+$color-olive: #5C591A;
+
+// backgrounds
+
+$fonLight: #FEF0DB;
+$fonBody: #FDF9F6;
+$pink-bg: #edcac1;
+
+// background image
+
+$image-pink-bg: url("/fronts_mobile/img/backgrounds/pinkCollectionL.jpg");
+$image-silver-bg: url("/fronts_mobile/img/about/one2.jpg");
+$image-gold-bg: url("/fronts_mobile/img/backgrounds/goldCollectionL.jpg");
+$image-gold-header-bg: url("/fronts_mobile/backgrounds/footerJewerly.jpg");
+
+$image-button-home: url("/fronts_mobile/img/backgrounds/buttBrown.jpg"); /* collection buttons HP */
+
+$image-button-main: url("/fronts_mobile/img/backgrounds/buttons.jpg"); /* add to cart and wish one product page,
+                          add to cart collection page,
+                          modal form button submit,
+                          404 page button,
+                          thank you page button,
+                          bijoux button topbar1,
+                          promocode button,
+                          order summary steps,
+                          promocodes page discount */
+
+$image-addToCart-clientArea: url("/fronts/img/backgrounds/cartClient.jpg"); // add to cart button client area cart page
+
+$image-button-gold: url("/fronts_mobile/img/backgrounds/onSubmit.jpg"); // submit button cart page, close button filter, client area main button, add to wish category page
+
+
+// fonts
+
+$futura: "GillSans-Light";
+
+$fontGillSansLight: "GillSans-Light";
+$fontGillSansRegular: "GillSans";
+$cormorant: "Cormorant SC";
+$north: "NorthWellAlt";
+
+// order-stats
+
+$delivered: #8D8F53;
+$indelivering: #2D456E;
+$notRespond: #D44016;
+
+// font-sizes
+$font-size-small: 16px; // footer text
+$font-size-big: 30px; //  Titles pe pagini, Titles Collections, about page titles
+
+$font-size-home-collection-title: 30px; // Cats pe HP, titles about section HP
+$font-size-home-button-collection: 16px; // Collection buttons HP
+$font-size-product-bloc-name: 18px; // product name one product bloc
+$font-size-modal-titles: 18px; // modal titles and line height
+$font-size-button-client-area: 18px;
+$font-size-text-client-area: 18px; // client area text
+
+$font-size-label: 16px; /* contact page from,
+                            order summary label, input, a, p,
+                            modal labels,
+                            input modal,
+                            inputs and textarea */

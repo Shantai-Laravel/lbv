@@ -1,0 +1,70 @@
+$color-standart: #42261D;
+$color-caramiziu: #B22D00;
+$color-olive: #5C591A;
+
+// backgrounds
+
+$fonLight: #FEF0DB;
+$fonBody: #FDF9F6;
+$pink-bg: #edcac1;
+
+// background image
+
+$image-pink-bg: url("/fronts/img/backgrounds/roz-new-desktop.jpg");
+$image-silver-bg: url("/fronts/img/about/one.jpg");
+$image-gold-bg: url("/fronts/img/backgrounds/gold-new-desktop.jpg");
+$image-gold-header-bg: url("/fronts_mobile/backgrounds/footerJewerly.jpg");
+
+$image-button-home: url("/fronts/img/backgrounds/buttons.jpg"); /* collection buttons HP,
+                                                                    add to cart and wish one product page,
+                                                                    add to cart collection page,
+                                                                    modal form button submit,
+                                                                    404 page button,
+                                                                    thank you page button,
+                                                                    bijoux button topbar1,
+                                                                    promocode button,
+                                                                    order summary steps,
+                                                                    promocodes page discount */
+
+$image-addToCart-clientArea: url("/fronts/img/backgrounds/cartClient.jpg"); // add to cart button client area cart page
+
+$image-button-gold: url("/fronts/img/backgrounds/onSubmit.jpg"); // submit button cart page, close button filter, client area main button
+
+
+// fonts
+
+$fontGillSansLight: "GillSans-Light";
+$fontGillSansRegular: "GillSans";
+$cormorant: "Cormorant SC";
+$north: "NorthWellAlt";
+
+// order-stats
+
+$delivered: #8D8F53;
+$indelivering: #2D456E;
+$notRespond: #D44016;
+
+$topbar-nav-category-bg: rgba(255, 231, 221, 0.8);
+
+// font-sizes
+
+$font-size-small: 14px;  // Topbar 3, titles la coloane din footer
+$font-size-big: 30px; //  Titles pe pagini, Titles Collections
+
+$font-size-home-collection-title: 70px; // Cats pe HP, titles about section HP
+$font-size-home-collection-descr: 24px; // Cats HP description, text about section HP
+$font-size-home-button-collection: 24px; // Collection buttons HP, form button submit
+$font-size-product-name: 40px; // product name one product page
+$font-size-product-bloc-name: 18px; // product name one product bloc
+$font-size-modal-titles: 18px; // modal titles and line height
+$font-size-button-client-area: 18px;
+$font-size-title-page-client-area: 40px;
+$font-size-nav-client-area: 24px; // nav client area, personal data text medium, order history page text
+$font-size-text-client-area: 18px; // client area text
+$font-size-hint-text: 14px; // size guide product one, forget password hint
+
+$font-size-label: 16px; /* contact page from,
+                            order summary label,
+                            modal labels,
+                            input modal,
+                            inputs and textarea */
